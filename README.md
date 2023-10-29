@@ -89,7 +89,7 @@ Direct Database Access: Fetch data in server React components without an API.
 
 ## Contact
 
-For inquiries or support, please contact `<Your Contact Email>`.
+For inquiries or support, please contact `jainarihant.aj20@gmail.com`.
 
 ---
 
