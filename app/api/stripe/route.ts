@@ -48,7 +48,7 @@ if (!prismadb.userSubscription) {
           price_data: {
             currency: "INR",
             product_data: {
-              name: "BabaGeN Pro",
+              name: "Ai-SaaS Pro",
               description: "Unlimited AI Request"
             },
             unit_amount: 2000,
