@@ -10,7 +10,7 @@ import { CrispProvider } from '@/components/crisp-provider';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: "BabaGen",
+  title: "Ai-SaaS",
   description: "Elevate Innovation with Our Suite of AI Wizards",
 };
 
